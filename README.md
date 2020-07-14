@@ -59,3 +59,5 @@ We have implemented the unwrapping of the obtained wrapped phase through the fol
 - Only one wrapped phase, along with a base phase required for unwrapping
 - Both the wrapped and the base phases are obtained through the common combination of the four distorted fringe patterns
 - The unwrapped phase value at each pixel is evaluated based on the wrapped phase, base phase , and the chosen frequency values
+
+You can find attached the results of the reconstructions for the peaks surface (available in Matlab), and a cuboid object.
